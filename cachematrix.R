@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This program creates a matrix that can cache its inverse
+## in order to avoid computing it multiple times
 
 ## this function creates a special matrix that is a list containing
 ## functions to set/get the matrix and set/get the matrix inverse
